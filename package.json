@@ -1,0 +1,17 @@
+{
+  "name": "banco_de_dados",
+  "version": "1.0.0",
+  "description": "banco de dados",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ana Paula de Oliveira <anapaula-guariba1@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-nedb-rest": "^1.2.6",
+    "nedb": "^1.8.0"
+  }
+}
